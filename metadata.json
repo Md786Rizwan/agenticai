@@ -1,0 +1,5 @@
+{
+  "name": "Academia AI: Subject-Aware Learning Assistant",
+  "description": "A production-grade RAG system for students with subject-based knowledge indexing, PDF/URL ingestion, and verifiable source citations.",
+  "requestFramePermissions": []
+}
